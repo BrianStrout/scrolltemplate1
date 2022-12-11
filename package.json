@@ -1,0 +1,23 @@
+{
+  "name": "scrolltemplate1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "esbuild app.jsx --bundle --outfile=out.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianStrout/scrolltemplate1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianStrout/scrolltemplate1/issues"
+  },
+  "homepage": "https://github.com/BrianStrout/scrolltemplate1#readme",
+  "dependencies": {
+    "esbuild": "0.16.4"
+  }
+}
